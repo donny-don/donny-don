@@ -1,6 +1,6 @@
-# Welcome 👋
+# Welcome 👋 
 
-- ⚠️ Hi, I’m Daniel Dorn aka Donny, I’m from 🇦🇹 :-)
+- 🖖 Hi, I’m Daniel Dorn aka Donny, I’m from 🇦🇹 :-)
 - 📫 You can reach me at ✍️ <donny@front-design.at>
 - ✍️ I’m mainly codeing with VS Code.
 - 👀 I’m interested in software development, embedded systems, and much more.
