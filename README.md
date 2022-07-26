@@ -3,7 +3,7 @@
 - 🖖 Hi, I’m Daniel Dorn aka Donny, I’m from 🇦🇹 :-)
 - 📫 You can reach me at ✍️ <donny@front-design.at>
 - ✍️ I’m mainly codeing with VS Code and Visual Studio.
-- 👀 I’m interested in software development, embedded systems, and much more.
+- 👀 I’m interested in software development, embedded systems and much more.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate with other people.
 
